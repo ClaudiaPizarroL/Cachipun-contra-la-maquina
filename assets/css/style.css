@@ -1,0 +1,14 @@
+body {
+  background-color: aqua;
+  color: blueviolet;
+  font-family: "Gamja Flower", sans-serif;
+  font-family: "Lilita One", sans-serif;
+}
+
+h1 {
+    font-family: "Lilita One", sans-serif;
+}
+
+p, li {
+    font-family: "Gamja Flower", sans-serif;
+}
